@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class SubstractionNumber12
+public class SubstractNo
 {
 	public static void main(String[] args) 
 	{
