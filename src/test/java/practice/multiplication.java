@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class SubstractNo
+public class multiplication
 {
 	public static void main(String[] args) 
 	{
@@ -17,8 +17,7 @@ public class SubstractNo
 		
 		 result=N1+N2;
 	    // System.out.println(result);
-		System.out.printf("%d+%d=%d",N1,N2,result);		
-		
+		System.out.printf("%d*%d=%d",N1,N2,result);	
 	}
 
 }
