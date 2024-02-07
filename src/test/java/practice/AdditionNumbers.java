@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class ClassA
+public class AdditionNumbers
 {
 	public static void main(String[] args) 
 	{
