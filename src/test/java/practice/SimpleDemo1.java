@@ -5,7 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Demo {
+public class SimpleDemo1
+{
 	public static void main(String[] args) throws Throwable {
 	WebDriver	driver=new FirefoxDriver();
 	driver.get("http://localhost:8888/");
@@ -35,7 +36,7 @@ if(actOrg.contains("zen")) {
 }
 else {
 	System.out.println("TC is fail");
-}
+       }
 	}
 
 }
